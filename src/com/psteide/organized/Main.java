@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("We got organized!");
         System.out.println("We are still organized!");
+        System.out.println("But are we though?");
     }
 }
